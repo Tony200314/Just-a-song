@@ -76,5 +76,7 @@ public class Musicmain {
         frame.add(panel, BorderLayout.NORTH);
         frame.add(imageLabel, BorderLayout.CENTER);
         frame.setVisible(true);
+
+        System.out.println("Is Just a song bro");
     }
 }
